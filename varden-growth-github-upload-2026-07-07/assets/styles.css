@@ -135,8 +135,7 @@ a {
 }
 
 .brand-hero {
-  min-height: clamp(620px, calc(100vh - 62px), 860px);
-  min-height: clamp(620px, calc(100svh - 62px), 860px);
+  min-height: calc(100vh - 62px);
   --hero-shift: 0px;
 }
 
@@ -159,15 +158,7 @@ a {
 }
 
 .brand-hero .hero-image {
-  inset: auto;
-  left: 50%;
-  top: 46%;
-  width: min(96vw, 1040px);
-  height: min(84vh, 820px);
-  height: min(84svh, 820px);
-  object-fit: contain;
-  object-position: center;
-  transform: translate3d(-50%, calc(-50% + var(--hero-shift, 0px)), 0) scale(1.08);
+  object-position: 50% 44%;
 }
 
 .hero-overlay {
@@ -1335,18 +1326,6 @@ textarea {
 
   .hero {
     min-height: auto;
-  }
-
-  .brand-hero {
-    min-height: clamp(520px, 78vh, 720px);
-    min-height: clamp(520px, 78svh, 720px);
-  }
-
-  .brand-hero .hero-image {
-    top: 44%;
-    width: min(112vw, 780px);
-    height: min(76vh, 660px);
-    height: min(76svh, 660px);
   }
 
   .hero-content {
