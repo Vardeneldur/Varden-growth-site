@@ -199,13 +199,13 @@ a {
 
 .hero-message .hero-content {
   display: grid;
-  grid-template-columns: minmax(0, 0.98fr) minmax(280px, 0.62fr);
-  gap: clamp(2rem, 5vw, 5rem);
+  grid-template-columns: minmax(0, 1.12fr) minmax(280px, 0.56fr);
+  gap: clamp(2.25rem, 5.5vw, 5.75rem);
   align-items: end;
 }
 
 .hero-lead {
-  max-width: 780px;
+  max-width: 920px;
 }
 
 .eyebrow {
@@ -230,6 +230,12 @@ a {
 
 .brand-hero h1 {
   max-width: 720px;
+}
+
+.hero-message h1 {
+  max-width: 900px;
+  font-size: clamp(4rem, 8.1vw, 8rem);
+  line-height: 0.88;
 }
 
 .hero-copy {
@@ -1812,6 +1818,11 @@ textarea {
   .page-hero h1,
   .audit-hero h1 {
     font-size: 2.35rem;
+  }
+
+  .hero-message h1 {
+    font-size: clamp(3.15rem, 15vw, 4.6rem);
+    line-height: 0.9;
   }
 
   .hero-copy,
