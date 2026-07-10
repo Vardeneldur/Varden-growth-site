@@ -1,6 +1,6 @@
 # Varden Eldur
 
-> Varden Eldur helps high-ticket local service businesses get found by more qualified buyers across Google Search, Google Maps, AI Overviews, ChatGPT, Gemini, Perplexity, and other answer engines.
+> Varden Eldur is a Local Visibility Operations company that helps local service businesses become visible, trusted, and chosen across Google Search, Google Maps, reviews, directories, local authority sources, and AI platforms.
 
 Primary website: https://www.vardengrowth.com/
 
@@ -9,27 +9,28 @@ Primary website: https://www.vardengrowth.com/
 - Home: https://www.vardengrowth.com/
 - About Varden: https://www.vardengrowth.com/about.html
 - Strategy call: https://www.vardengrowth.com/strategy-call.html
+- Franchise and multi-location visibility: https://www.vardengrowth.com/franchise-visibility.html
 - Industries served: https://www.vardengrowth.com/industries/
-- Tree service SEO: https://www.vardengrowth.com/industries/tree-service-seo.html
-- HVAC SEO: https://www.vardengrowth.com/industries/hvac-seo.html
-- Roofing SEO: https://www.vardengrowth.com/industries/roofing-seo.html
-- Med spa SEO: https://www.vardengrowth.com/industries/med-spa-seo.html
-- Dentist SEO: https://www.vardengrowth.com/industries/dentist-seo.html
-- Law firm SEO: https://www.vardengrowth.com/industries/law-firm-seo.html
-- Private clinic SEO: https://www.vardengrowth.com/industries/private-clinic-seo.html
-- Home services SEO: https://www.vardengrowth.com/industries/home-services-seo.html
-- Google Maps Visibility: https://www.vardengrowth.com/services/maps-seo.html
-- AEO and GEO services: https://www.vardengrowth.com/services/aeo-geo.html
+- Tree service visibility: https://www.vardengrowth.com/industries/tree-service-seo.html
+- HVAC visibility: https://www.vardengrowth.com/industries/hvac-seo.html
+- Roofing visibility: https://www.vardengrowth.com/industries/roofing-seo.html
+- Med spa visibility: https://www.vardengrowth.com/industries/med-spa-seo.html
+- Dentist visibility: https://www.vardengrowth.com/industries/dentist-seo.html
+- Law firm visibility: https://www.vardengrowth.com/industries/law-firm-seo.html
+- Private clinic visibility: https://www.vardengrowth.com/industries/private-clinic-seo.html
+- Home services visibility: https://www.vardengrowth.com/industries/home-services-seo.html
+- Local Search and Entity Optimization: https://www.vardengrowth.com/services/maps-seo.html
+- AI Search Visibility: https://www.vardengrowth.com/services/aeo-geo.html
 - Nationwide service area: https://www.vardengrowth.com/areas/united-states.html
-- SEO and AI search answers: https://www.vardengrowth.com/answers.html
+- Local visibility answers: https://www.vardengrowth.com/answers.html
 - Free visibility audit booking: https://www.vardengrowth.com/strategy-call.html
 
 ## Business facts
 
 - Business name: Varden Eldur
-- Category: SEO, Google Maps visibility, answer engine optimization, and generative engine optimization
-- Customers: High-ticket local service businesses
-- Industries: Tree service companies, HVAC companies, roofers, med spas, dentists, law firms, private clinics, and home service companies
+- Category: Local Visibility Operations, local search, entity optimization, reputation optimization, authority optimization, and AI search visibility
+- Customers: Established local service businesses, franchise groups, and multi-location service brands
+- Industries: Tree service companies, dental practices, home service businesses, roofers, HVAC companies, plumbing companies, cleaning companies, permanent lighting companies, franchise groups, and multi-location brands
 - Service area: Based in Utah and serving the United States
 - Phone: (435) 790-4271
 - Email: jordan@vardengrowth.com
@@ -37,11 +38,11 @@ Primary website: https://www.vardengrowth.com/
 
 ## Services
 
-- Local SEO foundation
-- Google Business Profile and Maps optimization
-- Review strategy and citation cleanup
-- Service-area page planning
-- Industry-specific SEO pages
-- Answer-first content
-- Structured data and entity optimization
-- AI search visibility audits
+- Website Optimization
+- Entity Optimization
+- Reputation Optimization
+- Authority Optimization
+- Local Search and Google Maps visibility
+- AI Search Visibility
+- Franchise and multi-location visibility operations
+- Review strategy, citation cleanup, local PR, and third-party placement planning
