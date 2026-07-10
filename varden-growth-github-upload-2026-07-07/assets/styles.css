@@ -195,7 +195,7 @@ a {
 
 .hero-message .hero-content {
   padding: 5.5rem 0;
-  width: min(1280px, calc(100% - 2.5rem));
+  width: min(1480px, calc(100% - 2.5rem));
 }
 
 .hero-message .hero-content {
@@ -206,7 +206,7 @@ a {
 }
 
 .hero-lead {
-  max-width: 1240px;
+  max-width: 1420px;
 }
 
 .eyebrow {
@@ -234,9 +234,12 @@ a {
 }
 
 .hero-message h1 {
-  max-width: 1240px;
-  font-size: clamp(3.85rem, 7vw, 7.2rem);
-  line-height: 0.92;
+  font-family: "Cormorant SC", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  max-width: 1420px;
+  font-size: clamp(4.6rem, 8.25vw, 9rem);
+  line-height: 0.88;
+  letter-spacing: 0;
   text-wrap: balance;
 }
 
