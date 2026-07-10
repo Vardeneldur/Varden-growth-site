@@ -199,13 +199,13 @@ a {
 
 .hero-message .hero-content {
   display: grid;
-  grid-template-columns: minmax(0, 1.12fr) minmax(280px, 0.56fr);
-  gap: clamp(2.25rem, 5.5vw, 5.75rem);
-  align-items: end;
+  grid-template-columns: 1fr;
+  gap: clamp(2.2rem, 4vw, 3.25rem);
+  align-items: start;
 }
 
 .hero-lead {
-  max-width: 920px;
+  max-width: 1080px;
 }
 
 .eyebrow {
@@ -233,7 +233,7 @@ a {
 }
 
 .hero-message h1 {
-  max-width: 900px;
+  max-width: 1080px;
   font-size: clamp(4rem, 8.1vw, 8rem);
   line-height: 0.88;
 }
@@ -283,16 +283,16 @@ a {
 }
 
 .proof-strip {
-  margin: 0 0 1rem auto;
+  width: 100%;
+  margin: 0;
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1px;
-  max-width: 390px;
+  max-width: 980px;
   background: rgba(255, 255, 255, 0.18);
   border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: var(--radius);
   overflow: hidden;
-  transform: translateY(1.8rem);
 }
 
 .proof-strip div {
@@ -1832,6 +1832,10 @@ textarea {
 
   .motion-line {
     font-size: 1.45rem;
+  }
+
+  .proof-strip {
+    grid-template-columns: 1fr;
   }
 
   .industry-track {
